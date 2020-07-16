@@ -1,3 +1,7 @@
 fn main () {
-    prinln!("hello world");
+    let height :i32 =100;
+    let width : i32 = 50;
 }
+fn area (dimention :(i32,i32) ) -> i32 {
+    dimention.0 * dimention.1
+}s 
