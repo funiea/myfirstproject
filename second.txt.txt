@@ -1,2 +1,6 @@
 use std::collection::HashMap;
-fn main () {}
+fn main () {
+   let mut v = vec!(String::from("saad"))
+   v.push_str
+
+}
