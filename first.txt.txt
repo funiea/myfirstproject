@@ -4,4 +4,6 @@ fn main () {
 }
 fn area (dimention :(i32,i32) ) -> i32 {
     dimention.0 * dimention.1
-}s 
+}
+fn area () {
+} 
